@@ -9,6 +9,8 @@ public class DemoTest {
 			System.out.println("Sample 1 Scripts");
 			
 			System.out.println("Suresh K");
+			
+			System.out.println("Commit");
 		
 	}
 	
